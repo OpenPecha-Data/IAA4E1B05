@@ -1,0 +1,25 @@
+id: IAA4E1B05
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:56:37.854479'
+last_modified: '2022-05-31T06:56:37.854486'
+parser: null
+source_metadata:
+  title: Rendawa Series
+  language: bo
+  description: 'Texts by and about Rendawa Shönnu Lodrö (red mda'' ba gzhon nu blo
+    gros, 1349–1412), the famed Sakya scholar and teacher of Tsongkhapa Lobzang Drakpa:'
+  volume:
+    f7261:
+      title: Prayer to Rendawa Shönnu Lodrö
+      base_file: f7261.txt
+      order: 1
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
